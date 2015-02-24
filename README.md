@@ -20,11 +20,11 @@ Settings
 
 ```
 $('a').externalLinks({
-  internalDomain: window.location.host,
-  setTargetBlank: true,
-  addClass: true,
+  "internalDomain": window.location.host,
+  "setTargetBlank": true,
+  "addClass": true,
   "class": 'external',
-  setTitle: true,
-  title: 'Opens new window'
+  "setTitle": true,
+  "title": 'Opens new window'
 });
 ```
