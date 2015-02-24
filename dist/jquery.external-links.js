@@ -1,5 +1,5 @@
 /**
- * jquery-external-links v0.0.1 - Detects external links and performs common actions
+ * jQuery External Links v0.0.1 - Detects external links and performs common actions
  * https://github.com/turnbullm/jquery-external-links
  */
 
